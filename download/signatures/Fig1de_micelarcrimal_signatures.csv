@@ -1,0 +1,11 @@
+CD8.T.cells,CD4.T.cells,B.cells,Monocytes,Neutrophils,NK.cells,pDC,CD45.
+Tm169Di<TCRb>,Tm169Di<TCRb>,Sm149Di<CD19>,Nd145Di<CD4>,Pr141Di<Ly-6G>,Er167Di<NKp46>,Ho165Di<CD317>,Sm147Di<CD45>
+Sm152Di<CD3>,Sm152Di<CD3>,Yb176Di<B220>,Nd146Di<F4-80>,Sm154Di<CD11b>,Er170Di<CD49b>,Yb176Di<B220>,
+Cd108Di<CD8>,Nd145Di<CD4>,,Dy162Di<Ly6C>,,,,
+Cd110Di<CD8>,,,Nd144Di<CD115>,,,,
+Cd111Di<CD8>,,,Sm154Di<CD11b>,,,,
+Cd112Di<CD8>,,,,,,,
+Cd113Di<CD8>,,,,,,,
+Cd114Di<CD8>,,,,,,,
+Cd116Di<CD8>,,,,,,,
+Yb172Di<CD86>,,,,,,,
